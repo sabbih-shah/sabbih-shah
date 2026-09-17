@@ -1,8 +1,8 @@
 # Syed Sabbih Haider Shah
 
-Senior AI Research Engineer building machine-learning systems that have to be measured, shipped, and maintained.
+Senior AI Research Engineer working in weather forecasting, generative media, speech, computer vision, and AI security.
 
-My work spans scientific ML, generative media, speech, computer vision, and AI security. I am currently a Senior AI Research Engineer at Vayuh.ai and AI Research Lead at Editable AI, with hands-on experience from data and distributed training through evaluation and deployment.
+I am currently a Senior AI Research Engineer at Vayuh.ai and AI Research Lead at Editable AI. My work covers model training, distributed inference, evaluation, and production deployment.
 
 [Portfolio](https://sabbih-shah.github.io) · [Résumé](https://sabbih-shah.github.io/cv/Sabbih_Shah_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/syed-sabbih-haider-shah) · [Email](mailto:sabbihshah@gmail.com)
 
