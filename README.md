@@ -10,8 +10,8 @@ I work across research design, model training, distributed inference, evaluation
 
 | Project | Scope |
 |---|---|
-| [CONUS forecast evaluation](https://www.editable.ai/forecast/) | Matched 2024 verification across 702 initialization times, four lead times, eight forecast systems, and URMA/MRMS observations. |
-| [OpenSCS severe-weather hindcasts](https://www.editable.ai/openscs/) | Peril-specific training, hindcast, and spatial-evaluation workflows for hail, thunderstorm wind, and tornado risk over a 1980–2025 archive. |
+| [Editable AI — CONUS forecast evaluation](https://www.editable.ai/forecast/) | Hyper-CONUS v2 versus HRRR and global AI systems across 702 matched 2024 initializations, four lead times, and URMA/MRMS observations. |
+| [Vayuh.ai — severe-weather modeling](https://www.editable.ai/openscs/) | Peril-specific U-Nets over a 1980–2025 archive plus a 50,000-year, 515 GB thunderstorm-wind catalog aligned with hail and tornado simulation years. |
 | [Traceable storm reports](https://www.editable.ai/evidence/) | Deterministic case reporting across MRMS, SWDI, Local Storm Reports, Storm Events, ASOS observations, radar geometry, and explicit evidence factors. |
 | [Prompt-injection detection](https://sabbih-shah.github.io/#work) | Context-aware cross-encoder evaluation across held-out prompt-injection benchmarks, with audited training overlap and dataset-specific results. |
 | [Severe-weather event sets](https://github.com/sabbih-shah/eventset-generation) | Ensemble hail-magnitude sampling and multi-year Zarr workflows for stochastic event catalogs. |
